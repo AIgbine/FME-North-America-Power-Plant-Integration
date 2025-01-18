@@ -2,7 +2,9 @@
 FME ETL integration
 
 I.1. Input data (Not uploaded)
- Input data are stored in multiple files and folders :
+
+
+Input data are stored in multiple files and folders :
  
 - 1_MEX folder contains the county boundaries of Mexico (shp)
 - 2_USA folder contains
