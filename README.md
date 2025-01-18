@@ -14,6 +14,6 @@ I.1. Input data (Not uploaded)
 
  I.2. Output 
  - The FME workflow showing integration of all input data to create a global shapefile of all PowerPlants in North America by Country (US, Canada, Mexico), by State and energy source (renewable and non=renewable)
- - Output Shapefile and folders automatically created by FME
+ - Output Shapefile and folders automatically created by FME (not uploaded)
  - Data are points, CRS in WGS84 (EPSG:4326)
  
